@@ -1,6 +1,10 @@
 ### Hi there 👋, My name is Jewel
 #### I am Mobile application developer (Flutter || Android)
-I have almost 4 years of experience in Mobile App Development. During this journey I have worked with Flutter and Android. I have developed mostly mobile applications like Food delivery apps, eCommerce, Classified listing apps. I have experience working on Android, Java, XML, Kotlin, Dart, Flutter, Firebase, Push Notification, ci/cd etc
+Skilled Developer with 6 years of experience developing mobile applications and 4 years of
+experience in the Flutter framework and 2 years of native app development experience. Skilled in
+collaborating with cross-functional teams to deliver high-quality , scalable solutions. Proficient in
+Agile development methodologies. Seeking to leverage my expertise in software development and
+my passion for innovation to drive business growth and success.
 
 Skills: Java / Android / Flutter / Dart / Firebase 
 
